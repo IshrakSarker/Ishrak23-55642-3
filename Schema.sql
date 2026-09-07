@@ -1,4 +1,4 @@
--- 25-60783-1_CompanyApp
+-- 23-55642-3_CompanyApp
 -- Unified database schema
 
 CREATE DATABASE dbCompanyApp;
